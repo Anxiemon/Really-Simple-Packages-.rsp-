@@ -1,0 +1,9 @@
+{"file":{
+    "url": "https://example.com/index.html",
+    "urltype": "torrent/magnet/direct",
+    "popup":{
+       "ajaxarguments": [
+       {"$.get("https://example.com", "", return)"},
+      ]
+    }
+}}
